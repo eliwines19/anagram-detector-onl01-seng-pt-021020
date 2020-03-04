@@ -13,3 +13,8 @@ class Anagram
     end
   end
 end
+
+#This lab does:
+#detects no matches
+#detects a simple anagram
+#detects multiple anagrams
